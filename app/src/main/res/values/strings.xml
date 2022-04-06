@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">uts_mobile_otomotif</string>
+    <string name="mobil1">Chevrolet Monte Carlo</string>
+    <string name="mobil2">L-170 Boo Truck</string>
+    <string name="mobil3">Porsche Carrera 911</string>
+    <string name="mobil4">Hudson Hornet</string>
+    <string name="mobil5">Chevrolet Impala Lowrider</string>
+    <string name="mobil6">Ford Standard Coupe</string>
+    <string name="mobil7">Dodge Challenger R/T</string>
+    <string name="mobil8">McLaren MP4–12C GT3</string>
+    <string name="mobil9">Jeep Willyss MB</string>
+    <string name="mobil10">VW Type 2</string>
+</resources>
